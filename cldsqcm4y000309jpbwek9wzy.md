@@ -246,6 +246,10 @@ In this example, when the user adds an item to the list, the `totalPrice` is onl
 
 In conclusion, the React Hooks API provides developers with a powerful set of tools for building dynamic and responsive user interfaces. Whether you are looking to manage state, implement side-effects, pass data between components, or optimize performance, the hooks have got you covered. With useState, you can manage state with ease, useEffect lets you manage side-effects in a performant way, useContext provides an elegant solution for data sharing, useReducer lets you manage complex state updates, useCallback is perfect for optimizing performance-critical functions, and useMemo helps to avoid unnecessary re-renders. Each of these hooks has its own unique set of features and benefits, and they can all be used in combination to create truly amazing and user-friendly applications. If you are looking to take your React development to the next level, be sure to explore these hooks and all that they have to offer.
 
+# Github Repository
+
+%[https://github.com/pcodesdev/react-hooks] 
+
 # Weekly Podcast
 
 %[https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3NjcmltYmE/episode/ZmFjZDM5NGQtMGExMC00MmEwLWEyYTYtMmQxNTY1NzFjYjJm?ep=14]
