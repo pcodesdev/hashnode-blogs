@@ -1,10 +1,10 @@
 ---
-title: "Comparing Create-React-App and Vite: A Comprehensive Guide for Front-end Development"
+title: "Comparing Create-React-App vs Vite: A Comprehensive Guide for Front-end Development"
 seoTitle: "Create React App vs. Vite: Flexibility & Speed"
 seoDescription: "Explore the speed and flexibility of Create React App vs Vite in our in-depth comparison. Make an informed choice for your React projects!"
 datePublished: Fri Oct 20 2023 10:53:56 GMT+0000 (Coordinated Universal Time)
 cuid: clnyhtv23000c08js5tt1cdei
-slug: comparing-create-react-app-and-vite-a-comprehensive-guide-for-front-end-development
+slug: comparing-create-react-app-vs-vite-a-comprehensive-guide-for-front-end-development
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Iq9SaJezkOE/upload/b3b4f5ce53b3993757bae589e7b06cf7.jpeg
 tags: reactjs, frontend-development, setup, create-react-app, vite
 
