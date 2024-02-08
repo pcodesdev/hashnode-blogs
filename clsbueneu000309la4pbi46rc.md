@@ -1,7 +1,7 @@
 ---
 title: "React Children Demystified: Unleashing Dynamic Component Composition"
-seoTitle: "React Children Props Guide: Explained for Data-Driven Rendering & JSX "
-seoDescription: "Struggling with nested components? Demystify React Children Props & learn how to render dynamic UIs based on data & JSX patterns. Discover best practices & "
+seoTitle: "React Children Props Guide: Explained for Data-Driven Rendering & JSX"
+seoDescription: "Struggling with nested components? Demystify React Children Props & learn how to render dynamic UIs based on data & JSX patterns. Discover best practices &"
 datePublished: Wed Feb 07 2024 13:45:51 GMT+0000 (Coordinated Universal Time)
 cuid: clsbueneu000309la4pbi46rc
 slug: react-children-demystified-unleashing-dynamic-component-composition
